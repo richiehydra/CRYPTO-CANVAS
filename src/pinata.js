@@ -1,7 +1,6 @@
 //require('dotenv').config();
-const key ="515e75d8cae47a1eb1ff" ;
-const secret ="7233b96e059f394a06472fac90b9dc6a85775faefe65d90dd79e50a584ebf0e5" ;
-
+const key ="key of pinat" ;
+const secret ="secret key of pinata";
 const axios = require('axios');
 const FormData = require('form-data');
 
